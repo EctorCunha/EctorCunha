@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/ector-cunha-b7892411a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://steamcommunity.com/id/ect0r/" target="_blank"><img height="28" width="120" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
   
- 
+ ![Snake animation](https://github.com/ectorcunha/ectorcunha/blob/output/github-contribution-grid-snake.svg)
  
  
 </div>
