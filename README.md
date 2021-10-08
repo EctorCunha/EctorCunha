@@ -4,7 +4,7 @@
 
 ##
 
-<div display="flex" align="center">
+<div>
   <a href="https://github.com/EctorCunha">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EctorCunha&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EctorCunha&layout=compact&langs_count=7&theme=slateorange"/>
