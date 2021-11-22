@@ -1,6 +1,7 @@
 ### Olá, me chamo Ector Cunha 👋
 
 - 🌱 Estudante Full Stack
+- Certified Tech Developer
 
 ##
 
