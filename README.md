@@ -2,6 +2,14 @@
 
 - 🌱 Estudante Full Stack
 - Certified Tech Developer
+- Análise e Desenvolvimento de Sistemas
+- Soft Skills:
+  - Desing Thinking
+  - Metodologias Ágeis
+  - Learning Agility
+  - Teamwork & collaboration
+  - Comunicação Efetiva
+  - Outras soft skills sociais
 
 ##
 
