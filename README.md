@@ -1,3 +1,4 @@
+### Portugues              
 ### Olá, me chamo Ector Cunha 👋
 
 - 🌱 Estudante Full Stack
@@ -10,6 +11,22 @@
   - Teamwork & collaboration
   - Comunicação Efetiva
   - Outras soft skills sociais
+  
+  ---------------------------------------
+  
+  ### English
+  ### Hello, my name is Ector Cunha 👋
+
+- 🌱 Full Stack Student
+- Certified technology developer
+- Analysis and systems development
+- Interpersonal skills:
+    - Design Thought
+    - Agile Methodologies
+    - Learning Agility
+    - Teamwork and collaboration
+    - Effective Communication
+    - Other social soft skills
 
 ##
 
