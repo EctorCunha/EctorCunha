@@ -14,8 +14,8 @@
   
   ---------------------------------------
   
-  ### English
-  ### Hello, my name is Ector Cunha 👋
+ ### English
+ ### Hello, my name is Ector Cunha 👋
 
 - 🌱 Full Stack Student
 - Certified technology developer
