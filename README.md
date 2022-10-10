@@ -20,13 +20,13 @@
 - 🌱 Full Stack Student
 - Certified technology developer
 - Analysis and systems development
-- Interpersonal skills:
-    - Design Thought
+- Soft skills:
+    - Design Thinking
     - Agile Methodologies
     - Learning Agility
     - Teamwork and collaboration
     - Effective Communication
-    - Other social soft skills
+    - Other soft skills
 
 ##
 
