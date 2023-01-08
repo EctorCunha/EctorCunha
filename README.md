@@ -1,7 +1,6 @@
 ### Portugues              
 ### Olá, me chamo Ector Cunha 👋
 
-- 🌱 Estudante Full Stack
 - Certified Tech Developer
 - Análise e Desenvolvimento de Sistemas
 - Soft Skills:
