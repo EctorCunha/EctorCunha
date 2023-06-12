@@ -1,4 +1,4 @@
-## Contador de visitas / Visitor count
+###       Contador de visitas / Visitor count
 <p align="center"> <img align+"center" src="https://profile-counter.glitch.me/ectorcunha/count.svg" /> </p>
 
 ##
