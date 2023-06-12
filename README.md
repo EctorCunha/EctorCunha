@@ -1,30 +1,5 @@
-### Portugues              
-### Olá, me chamo Ector Cunha 👋
-
-- Certified Tech Developer
-- Análise e Desenvolvimento de Sistemas
-- Soft Skills:
-  - Desing Thinking
-  - Metodologias Ágeis
-  - Learning Agility
-  - Teamwork & collaboration
-  - Comunicação Efetiva
-  - Outras soft skills sociais
-  
-  ---------------------------------------
-  
- ### English
- ### Hello, my name is Ector Cunha 👋
-
-- Certified technology developer
-- Analysis and systems development
-- Soft skills:
-    - Design Thinking
-    - Agile Methodologies
-    - Learning Agility
-    - Teamwork and collaboration
-    - Effective Communication
-    - Other soft skills
+## Contador de visitas / Visitor count
+<p align="center"> <img align+"center" src="https://profile-counter.glitch.me/ectorcunha/count.svg" /> </p>
 
 ##
 
