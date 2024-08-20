@@ -17,18 +17,21 @@
 ### Contador de visitas / Visitor count
 
 <p align="center"> <img align+"center" src="https://profile-counter.glitch.me/ectorcunha/count.svg" /> </p>
-##
+
 
 <div>
   <a href="https://github.com/EctorCunha">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EctorCunha&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EctorCunha&layout=compact&langs_count=7&theme=slateorange"/>
 </div>
+<br>
 
 # 🤖 Tech Stack
 
 <div style="display: inline_block">
  Frontend:
+ <br>
+
  <a href="https://www.w3schools.com/html/" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
  <a href="https://sass-lang.com/" target="_blank"><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" target="_blank"></a>
@@ -42,37 +45,47 @@
  <a href="https://redux-toolkit.js.org/" target="_blank"><img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" target="_blank"></a>
  <a href="https://reactrouter.com/en/main" target="_blank"><img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" target="_blank"></a>
 </div>
-##
+
 <div style="display: inline_block">
  Backend:
+ <br>
+
  <a href="https://www.java.com/pt-BR/" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" target="_blank"></a>
  <a href="https://nodejs.org/pt" target="_blank"><img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" target="_blank"></a>
  <a href="https://go.dev/" target="_blank"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" target="_blank"></a>
  <a href="https://expressjs.com/" target="_blank"><img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" target="_blank"></a>
  <a href="https://www.prisma.io/?via=start&gad_source=1" target="_blank"><img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" target="_blank"></a>
 </div>
-##
+
 <div style="display: inline_block">
  Banco de dados:
+ <br>
+
  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
  <a href="https://www.postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" target="_blank"></a>
  <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" target="_blank"></a>
 </div>
-##
+
 <div style="display: inline_block">
  Testes:
+ <br>
+
  <a href="https://jestjs.io/pt-BR/" target="_blank"><img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" target="_blank"></a>
  <a href="https://testing-library.com/" target="_blank"><img src="https://img.shields.io/badge/testing%20library-323330?style=for-the-badge&logo=testing-library&logoColor=red" target="_blank"></a>
 </div>
-##
+
 <div style="display: inline_block">
  Security:
+ <br>
+ 
  <a href="https://snyk.io/pt-BR/" target="_blank"><img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" target="_blank"></a>
- <a href="https://www.sonarsource.com/products/sonarcloud/" target="_blank"><img src=" <a href="" target="_blank"><img src="https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" target="_blank"></a>
+ <a href="https://www.sonarsource.com/products/sonarcloud/" target="_blank"><img src="https://img.shields.io/badge/Sonar%20cloud-F3702A?style=for-the-badge&logo=sonarcloud&logoColor=white" target="_blank"></a>
 </div>
-##
+
 <div style="display: inline_block">
  DevSecOps:
+ <br>
+
  <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" target="_blank"></a>
  <a href="https://aws.amazon.com/pt/?nc2=h_lg" target="_blank"><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" target="_blank"></a>
  <a href="https://docs.github.com/pt/actions" target="_blank"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" target="_blank"></a>
@@ -82,9 +95,11 @@
  <a href="https://www.jenkins.io/" target="_blank"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white" target="_blank"></a>
  <a href="https://www.atlassian.com/software/jira" target="_blank"><img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" target="_blank"></a>
 </div>
-##
+
 <div style="display: inline_block">
  Outros:
+ <br>
+
  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
  <a href="https://www.linux.org/pages/download/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" target="_blank"></a>
  <a href="https://www.adobe.com/br/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" target="_blank"></a>
@@ -108,7 +123,7 @@
  <a href="https://www.opera.com/pt/gx" target="_blank"><img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" target="_blank"></a>
  <a href="https://www.mozilla.org/pt-BR/firefox/new/" target="_blank"><img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" target="_blank"></a>
 </div>
-##
+
 
 # 💬 Social
 <div>
@@ -121,7 +136,8 @@
  <a href="https://steamcommunity.com/id/LRDFPS/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
  <a href="https://www.counter-strike.net/cs2" target="_blank"><img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" target="_blank"></a>
 </div>
-##
+
 ## Apaixonado por tecnologia, educação, esportes e e-sports
+
 
 ![Snake animation](https://github.com/ectorcunha/ectorcunha/blob/output/github-contribution-grid-snake.svg)
