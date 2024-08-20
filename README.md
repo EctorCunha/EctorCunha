@@ -4,7 +4,7 @@
 
 ### Me chamo Ector e aqui abaixo você terá mais detalhes sobre mim 👀 🎖️
 
-🎓 Graduação: Análise e desenvolvimento de sistemas pela [Estácio](https://estacio.br/){:target="_blank"}
+🎓 Graduação: Análise e desenvolvimento de sistemas pela [Estácio](https://estacio.br/).
 
 🎓 Pós-graduação: Redes e Cibersegurança pela <a href="https://hackone.com.br/">Hackone</a>.
 
