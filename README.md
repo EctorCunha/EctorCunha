@@ -1,4 +1,4 @@
- # Hi, Five
+ # Hi five
  
 🎓   Graduação:   Análise e desenvolvimento de sistemas pela <a href="https://estacio.br/">Estácio</a>
 
@@ -47,6 +47,9 @@
   <img align="center" alt="Ector-jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg"/>
 
 </div>
+
+## Skills
+https://nodejs.org/en/ https://nodejs.org/en/
   
   ##
   
