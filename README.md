@@ -33,7 +33,7 @@
   <img align="center" alt="Ector-ReactJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="Ector-NextJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
   <img align="center" alt="Ector-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  <img align="center" alt="Ector-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img align="center" alt="Ector-NodeJs" height="30" width="40" src="https://nodejs.org/en/" />
   <img align="center" alt="Ector-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Ector-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
   <img align="center" alt="Ector-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
@@ -48,8 +48,9 @@
 
 </div>
 
-## Skills
-https://nodejs.org/en/ https://nodejs.org/en/
+## Tech Stack
+
+
   
   ##
   
