@@ -18,9 +18,7 @@
 
 <p align="center"> <img align+"center" src="https://profile-counter.glitch.me/ectorcunha/count.svg" /> </p>
 
-<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2570012" alt="TryHackMe Badge">
-
-
+![Meu Badge](https://tryhackme.com/badge/userPublicId.svg)
 
 
 <div>
