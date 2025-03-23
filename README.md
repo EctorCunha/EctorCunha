@@ -19,7 +19,7 @@
 <p align="center"> <img align+"center" src="https://profile-counter.glitch.me/ectorcunha/count.svg" /> </p>
 
 <div>
-<img src="https://tryhackme-badges.s3.amazonaws.com/.Echo.png" alt="Seu emblema de imagem" />
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2570012" style='border:none;'></iframe>
 </div>
 
 
