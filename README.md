@@ -19,6 +19,10 @@
 <p align="center"> <img align+"center" src="https://profile-counter.glitch.me/ectorcunha/count.svg" /> </p>
 
 
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2570012" style='border:none;'></iframe>
+
+
+
 <div>
   <a href="https://github.com/EctorCunha">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=EctorCunha&show_icons=true&theme=slateorange&include_all_commits=true&count_private=true"/>
