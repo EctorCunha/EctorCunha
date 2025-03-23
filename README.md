@@ -8,9 +8,9 @@
 
 🎓 Pós-graduação: Redes e Cibersegurança pela <a href="https://hackone.com.br/">Hackone</a>.
 
-🎓 Imersão técnica: Cetified Tech Developer pela <a href="https://www.digitalhouse.com/br/produtos/programacao/certified-tech-developer">Digital House</a>.
+🎓 Imersão técnica: Certified Tech Developer pela <a href="https://www.digitalhouse.com/br/produtos/programacao/certified-tech-developer">Digital House</a>.
 
-🎓 Em formação: DevSecOps pelo programa <a href="https://hackersdobem.org.br/">Hackers do Bem</a>.
+🎓 Especialização: DevSecOps pelo programa <a href="https://hackersdobem.org.br/">Hackers do Bem</a>.
 
 ---
 
