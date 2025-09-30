@@ -10,7 +10,7 @@
 
 🎓 Imersão técnica: Certified Tech Developer pela <a href="https://www.digitalhouse.com/br/produtos/programacao/certified-tech-developer">Digital House</a>.
 
-🎓 Especialização: DevSecOps pelo programa <a href="https://hackersdobem.org.br/">Hackers do Bem</a>.
+🎓 Especialização e Residência: DevSecOps pelo programa <a href="https://hackersdobem.org.br/">Hackers do Bem</a>.
 
 ---
 
