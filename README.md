@@ -1,20 +1,22 @@
 # Hi ✋🏼
 
-### É um prazer tê-lo aqui 🫱🏽‍🫲🏼
+### It’s a pleasure to have you here 🫱🏽‍🫲🏼
 
-### Me chamo Ector e aqui abaixo você terá mais detalhes sobre mim 👀 🎖️
+### My name is Ector, and below you’ll find more details about me 👀 🎖️
 
-🎓 Graduação: Análise e desenvolvimento de sistemas pela [Estácio](https://estacio.br/).
+🎓 Bachelor’s Degree: Systems Analysis and Development at [Estácio](https://estacio.br/).
 
-🎓 Pós-graduação: Redes e Cibersegurança pela <a href="https://hackone.com.br/">Hackone</a>.
+🎓 Postgraduate Degree: Networks and Cybersecurity at <a href="https://hackone.com.br/">Hackone</a>.
 
-🎓 Imersão técnica: Certified Tech Developer pela <a href="https://www.digitalhouse.com/br/produtos/programacao/certified-tech-developer">Digital House</a>.
+🎓 Technical Immersion: Certified Tech Developer at <a href="https://www.digitalhouse.com/br/produtos/programacao/certified-tech-developer">Digital House</a>.
 
-🎓 Especialização e Residência: DevSecOps pelo programa <a href="https://hackersdobem.org.br/">Hackers do Bem</a>.
+🎓 Specialization and Residency: DevSecOps through the <a href="https://hackersdobem.org.br/">Hackers do Bem</a>.
+
+For more, <a href="https://www.linkedin.com/in/ector-cunha/"></a>.
 
 ---
 
-### Contador de visitas / Visitor count
+### Visitor count
 
 <p align="center"> <img align+"center" src="https://profile-counter.glitch.me/ectorcunha/count.svg" /> </p>
 
@@ -57,7 +59,7 @@
 </div>
 
 <div style="display: inline_block">
- Banco de dados:
+ Data Base:
  <br>
 
  <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" target="_blank"></a>
@@ -66,7 +68,7 @@
 </div>
 
 <div style="display: inline_block">
- Testes:
+ Tests:
  <br>
 
  <a href="https://jestjs.io/pt-BR/" target="_blank"><img src="https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white" target="_blank"></a>
@@ -96,7 +98,7 @@
 </div>
 
 <div style="display: inline_block">
- Outros:
+ Others:
  <br>
 
  <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" target="_blank"></a>
@@ -137,7 +139,7 @@
  <a href="https://www.counter-strike.net/cs2" target="_blank"><img src="https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white" target="_blank"></a>
 </div>
 
-## Apaixonado por tecnologia, educação, esportes e e-sports
+## Passionate about technology, education, sports, and e-sports.
 
 
 ![Snake animation](https://github.com/ectorcunha/ectorcunha/blob/output/github-contribution-grid-snake.svg)
