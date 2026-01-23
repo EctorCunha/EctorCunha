@@ -12,7 +12,7 @@
 
 🎓 Specialization and Residency: DevSecOps through the <a href="https://hackersdobem.org.br/">Hackers do Bem</a>.
 
-For more, <a href="https://www.linkedin.com/in/ector-cunha/"></a>.
+For more, <a href="https://www.linkedin.com/in/ector-cunha/">Linkedin</a>.
 
 ---
 
