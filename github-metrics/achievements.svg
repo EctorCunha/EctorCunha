@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="230" viewBox="0 0 480 230" fill="none">
+  <defs>
+    <linearGradient id="bg_achieve" x1="0" y1="0" x2="480" y2="230" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+
+    <radialGradient id="gold-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#e3b341" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#e3b341" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blue-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="green-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#3fb950" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#3fb950" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="480" height="230" rx="10" fill="url(#bg_achieve)" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Header -->
+  <g transform="translate(25, 25)">
+    <text x="0" y="16" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif" font-size="16" font-weight="600" fill="#58a6ff">🏆 GitHub Achievements</text>
+    <text x="0" y="34" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif" font-size="11" fill="#8b949e">Conquistas oficiais desbloqueadas no perfil</text>
+  </g>
+
+  <!-- 3 Real Achievements Unlocked by EctorCunha -->
+  <g transform="translate(30, 80)">
+    <!-- 1. Quickdraw -->
+    <g transform="translate(20, 0)">
+      <circle cx="45" cy="35" r="42" fill="url(#gold-glow)"/>
+      <circle cx="45" cy="35" r="30" fill="#161b22" stroke="#e3b341" stroke-width="2"/>
+      <text x="45" y="43" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="26" text-anchor="middle">⚡</text>
+      <text x="45" y="82" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="600" fill="#c9d1d9" text-anchor="middle">Quickdraw</text>
+      <text x="45" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">Closed issue/PR &lt; 5m</text>
+    </g>
+
+    <!-- 2. Pull Shark -->
+    <g transform="translate(165, 0)">
+      <circle cx="45" cy="35" r="42" fill="url(#blue-glow)"/>
+      <circle cx="45" cy="35" r="30" fill="#161b22" stroke="#58a6ff" stroke-width="2"/>
+      <text x="45" y="43" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="26" text-anchor="middle">🦈</text>
+      <text x="45" y="82" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="600" fill="#c9d1d9" text-anchor="middle">Pull Shark</text>
+      <text x="45" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">Merged Pull Requests</text>
+    </g>
+
+    <!-- 3. YOLO -->
+    <g transform="translate(310, 0)">
+      <circle cx="45" cy="35" r="42" fill="url(#green-glow)"/>
+      <circle cx="45" cy="35" r="30" fill="#161b22" stroke="#3fb950" stroke-width="2"/>
+      <text x="45" y="43" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="26" text-anchor="middle">🎯</text>
+      <text x="45" y="82" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="13" font-weight="600" fill="#c9d1d9" text-anchor="middle">YOLO</text>
+      <text x="45" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">Merged without review</text>
+    </g>
+  </g>
+
+  <!-- Footer -->
+  <g transform="translate(240, 212)" text-anchor="middle">
+    <text font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#8b949e">
+      Dados sincronizados diretamente do perfil @EctorCunha
+    </text>
+  </g>
+</svg>

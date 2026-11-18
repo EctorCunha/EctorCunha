@@ -1,0 +1,198 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="300" viewBox="0 0 850 300" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="850" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+
+    <!-- 3D Cube Level 1 (Low) -->
+    <linearGradient id="l1-top" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#006d32"/><stop offset="1" stop-color="#0e4429"/></linearGradient>
+    <linearGradient id="l1-side" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#004d23"/><stop offset="1" stop-color="#072b1a"/></linearGradient>
+
+    <!-- 3D Cube Level 2 (Medium) -->
+    <linearGradient id="l2-top" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#26a641"/><stop offset="1" stop-color="#006d32"/></linearGradient>
+    <linearGradient id="l2-side" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#196c2e"/><stop offset="1" stop-color="#004d23"/></linearGradient>
+
+    <!-- 3D Cube Level 3 (High) -->
+    <linearGradient id="l3-top" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#39d353"/><stop offset="1" stop-color="#26a641"/></linearGradient>
+    <linearGradient id="l3-side" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#239a3b"/><stop offset="1" stop-color="#196c2e"/></linearGradient>
+
+    <!-- 3D Cube Level 4 (Peak) -->
+    <linearGradient id="l4-top" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#7ee787"/><stop offset="1" stop-color="#39d353"/></linearGradient>
+    <linearGradient id="l4-side" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#34bc4c"/><stop offset="1" stop-color="#239a3b"/></linearGradient>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+  </defs>
+
+  <rect width="850" height="300" rx="10" fill="url(#bg)" stroke="#30363d" stroke-width="1"/>
+
+  <!-- Header -->
+  <g transform="translate(30, 25)">
+    <circle cx="12" cy="12" r="12" fill="#238636" opacity="0.25"/>
+    <text x="12" y="17" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif" font-size="14" fill="#3fb950" text-anchor="middle">📅</text>
+    <text x="35" y="17" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif" font-size="16" font-weight="600" fill="#58a6ff">Isometric Commit Calendar</text>
+    <text x="35" y="36" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, sans-serif" font-size="12" fill="#8b949e">Atividade anual de commits em projeção tridimensional</text>
+  </g>
+
+  <!-- Metric Badges in Header -->
+  <g transform="translate(560, 25)">
+    <rect x="0" y="0" width="125" height="30" rx="6" fill="#21262d" stroke="#30363d"/>
+    <text x="12" y="19" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#8b949e">Current Streak:</text>
+    <text x="94" y="19" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="700" fill="#3fb950">Active</text>
+
+    <rect x="135" y="0" width="125" height="30" rx="6" fill="#21262d" stroke="#30363d"/>
+    <text x="147" y="19" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#8b949e">Full Year:</text>
+    <text x="210" y="19" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="700" fill="#58a6ff">Tracked</text>
+  </g>
+
+  <!-- Months Labels Across Year -->
+  <g transform="translate(60, 90)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#8b949e">
+    <text x="0" y="0">Jan</text>
+    <text x="65" y="0">Feb</text>
+    <text x="130" y="0">Mar</text>
+    <text x="195" y="0">Apr</text>
+    <text x="260" y="0">May</text>
+    <text x="325" y="0">Jun</text>
+    <text x="390" y="0">Jul</text>
+    <text x="455" y="0">Aug</text>
+    <text x="520" y="0">Sep</text>
+    <text x="585" y="0">Oct</text>
+    <text x="650" y="0">Nov</text>
+    <text x="715" y="0">Dec</text>
+  </g>
+
+  <!-- 3D Isometric Wave Landscape -->
+  <g transform="translate(45, 120)">
+    <!-- Jan-Feb -->
+    <g transform="translate(15, 60)">
+      <polygon points="15,0 30,7 15,14 0,7" fill="url(#l2-top)"/>
+      <polygon points="0,7 15,14 15,30 0,23" fill="url(#l2-side)"/>
+      <polygon points="15,14 30,7 30,23 15,30" fill="url(#l2-side)"/>
+    </g>
+    <g transform="translate(40, 45)">
+      <polygon points="15,0 30,7 15,14 0,7" fill="url(#l3-top)"/>
+      <polygon points="0,7 15,14 15,38 0,31" fill="url(#l3-side)"/>
+      <polygon points="15,14 30,7 30,31 15,38" fill="url(#l3-side)"/>
+    </g>
+    <g transform="translate(65, 55)">
+      <polygon points="15,0 30,7 15,14 0,7" fill="url(#l1-top)"/>
+      <polygon points="0,7 15,14 15,22 0,15" fill="url(#l1-side)"/>
+      <polygon points="15,14 30,7 30,15 15,22" fill="url(#l1-side)"/>
+    </g>
+
+    <!-- Mar-Apr -->
+    <g transform="translate(125, 40)">
+      <polygon points="15,0 30,7 15,14 0,7" fill="url(#l3-top)"/>
+      <polygon points="0,7 15,14 15,40 0,33" fill="url(#l3-side)"/>
+      <polygon points="15,14 30,7 30,33 15,40" fill="url(#l3-side)"/>
+    </g>
+    <g transform="translate(150, 25)">
+      <polygon points="15,0 30,7 15,14 0,7" fill="url(#l4-top)" filter="url(#glow)"/>
+      <polygon points="0,7 15,14 15,50 0,43" fill="url(#l4-side)"/>
+      <polygon points="15,14 30,7 30,43 15,50" fill="url(#l4-side)"/>
+    </g>
+    <g transform="translate(175, 45)">
+      <polygon points="15,0 30,7 15,14 0,7" fill="url(#l2-top)"/>
+      <polygon points="0,7 15,14 15,32 0,25" fill="url(#l2-side)"/>
+      <polygon points="15,14 30,7 30,25 15,32" fill="url(#l2-side)"/>
+    </g>
+
+    <!-- May-Jun -->
+    <g transform="translate(245, 50)">
+      <polygon points="15,0 30,7 15,14 0,7" fill="url(#l2-top)"/>
+      <polygon points="0,7 15,14 15,30 0,23" fill="url(#l2-side)"/>
+      <polygon points="15,14 30,7 30,23 15,30" fill="url(#l2-side)"/>
+    </g>
+    <g transform="translate(270, 35)">
+      <polygon points="15,0 30,7 15,14 0,7" fill="url(#l3-top)"/>
+      <polygon points="0,7 15,14 15,42 0,35" fill="url(#l3-side)"/>
+      <polygon points="15,14 30,7 30,35 15,42" fill="url(#l3-side)"/>
+    </g>
+    <g transform="translate(295, 20)">
+      <polygon points="15,0 30,7 15,14 0,7" fill="url(#l4-top)" filter="url(#glow)"/>
+      <polygon points="0,7 15,14 15,52 0,45" fill="url(#l4-side)"/>
+      <polygon points="15,14 30,7 30,45 15,52" fill="url(#l4-side)"/>
+    </g>
+    <g transform="translate(320, 40)">
+      <polygon points="15,0 30,7 15,14 0,7" fill="url(#l3-top)"/>
+      <polygon points="0,7 15,14 15,38 0,31" fill="url(#l3-side)"/>
+      <polygon points="15,14 30,7 30,31 15,38" fill="url(#l3-side)"/>
+    </g>
+
+    <!-- Jul-Aug -->
+    <g transform="translate(390, 45)">
+      <polygon points="15,0 30,7 15,14 0,7" fill="url(#l2-top)"/>
+      <polygon points="0,7 15,14 15,32 0,25" fill="url(#l2-side)"/>
+      <polygon points="15,14 30,7 30,25 15,32" fill="url(#l2-side)"/>
+    </g>
+    <g transform="translate(415, 30)">
+      <polygon points="15,0 30,7 15,14 0,7" fill="url(#l3-top)"/>
+      <polygon points="0,7 15,14 15,44 0,37" fill="url(#l3-side)"/>
+      <polygon points="15,14 30,7 30,37 15,44" fill="url(#l3-side)"/>
+    </g>
+    <g transform="translate(440, 50)">
+      <polygon points="15,0 30,7 15,14 0,7" fill="url(#l1-top)"/>
+      <polygon points="0,7 15,14 15,24 0,17" fill="url(#l1-side)"/>
+      <polygon points="15,14 30,7 30,17 15,24" fill="url(#l1-side)"/>
+    </g>
+
+    <!-- Sep-Oct -->
+    <g transform="translate(510, 35)">
+      <polygon points="15,0 30,7 15,14 0,7" fill="url(#l3-top)"/>
+      <polygon points="0,7 15,14 15,42 0,35" fill="url(#l3-side)"/>
+      <polygon points="15,14 30,7 30,35 15,42" fill="url(#l3-side)"/>
+    </g>
+    <g transform="translate(535, 20)">
+      <polygon points="15,0 30,7 15,14 0,7" fill="url(#l4-top)" filter="url(#glow)"/>
+      <polygon points="0,7 15,14 15,55 0,48" fill="url(#l4-side)"/>
+      <polygon points="15,14 30,7 30,48 15,55" fill="url(#l4-side)"/>
+    </g>
+    <g transform="translate(560, 40)">
+      <polygon points="15,0 30,7 15,14 0,7" fill="url(#l2-top)"/>
+      <polygon points="0,7 15,14 15,35 0,28" fill="url(#l2-side)"/>
+      <polygon points="15,14 30,7 30,28 15,35" fill="url(#l2-side)"/>
+    </g>
+
+    <!-- Nov-Dec -->
+    <g transform="translate(630, 25)">
+      <polygon points="15,0 30,7 15,14 0,7" fill="url(#l4-top)" filter="url(#glow)"/>
+      <polygon points="0,7 15,14 15,52 0,45" fill="url(#l4-side)"/>
+      <polygon points="15,14 30,7 30,45 15,52" fill="url(#l4-side)"/>
+    </g>
+    <g transform="translate(655, 38)">
+      <polygon points="15,0 30,7 15,14 0,7" fill="url(#l3-top)"/>
+      <polygon points="0,7 15,14 15,40 0,33" fill="url(#l3-side)"/>
+      <polygon points="15,14 30,7 30,33 15,40" fill="url(#l3-side)"/>
+    </g>
+    <g transform="translate(680, 50)">
+      <polygon points="15,0 30,7 15,14 0,7" fill="url(#l2-top)"/>
+      <polygon points="0,7 15,14 15,30 0,23" fill="url(#l2-side)"/>
+      <polygon points="15,14 30,7 30,23 15,30" fill="url(#l2-side)"/>
+    </g>
+    <g transform="translate(705, 30)">
+      <polygon points="15,0 30,7 15,14 0,7" fill="url(#l4-top)" filter="url(#glow)"/>
+      <polygon points="0,7 15,14 15,48 0,41" fill="url(#l4-side)"/>
+      <polygon points="15,14 30,7 30,41 15,48" fill="url(#l4-side)"/>
+    </g>
+  </g>
+
+  <!-- Footer Legend -->
+  <g transform="translate(30, 265)">
+    <text x="0" y="12" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#8b949e">
+      ⚡ Renderizado dinamicamente via GitHub Actions
+    </text>
+  </g>
+
+  <g transform="translate(700, 265)">
+    <text x="-30" y="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#8b949e">Less</text>
+    <rect x="0" y="2" width="10" height="10" rx="2" fill="#161b22" stroke="#30363d"/>
+    <rect x="15" y="2" width="10" height="10" rx="2" fill="#0e4429"/>
+    <rect x="30" y="2" width="10" height="10" rx="2" fill="#006d32"/>
+    <rect x="45" y="2" width="10" height="10" rx="2" fill="#26a641"/>
+    <rect x="60" y="2" width="10" height="10" rx="2" fill="#39d353"/>
+    <text x="78" y="11" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" fill="#8b949e">More</text>
+  </g>
+</svg>
